@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Singleton Post]]></title>
-  <link href="http://alexkorotkikh.com/atom.xml" rel="self"/>
-  <link href="http://alexkorotkikh.com/"/>
-  <updated>2013-03-01T19:13:09+01:00</updated>
-  <id>http://alexkorotkikh.com/</id>
+  <link href="http://alexkorotkikh.github.com/atom.xml" rel="self"/>
+  <link href="http://alexkorotkikh.github.com/"/>
+  <updated>2013-03-01T19:33:13+01:00</updated>
+  <id>http://alexkorotkikh.github.com/</id>
   <author>
     <name><![CDATA[Alex Korotkikh]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Шпаргалка про производительность]]></title>
-    <link href="http://alexkorotkikh.com/blog/2013/03/01/highload-problem-cheatsheet/"/>
+    <link href="http://alexkorotkikh.github.com/blog/2013/03/01/highload-problem-cheatsheet/"/>
     <updated>2013-03-01T18:00:00+01:00</updated>
-    <id>http://alexkorotkikh.com/blog/2013/03/01/highload-problem-cheatsheet</id>
+    <id>http://alexkorotkikh.github.com/blog/2013/03/01/highload-problem-cheatsheet</id>
     <content type="html"><![CDATA[<p><em>Участвуя в конкурсе <a href="http://uwc.org.ua">UA Web Challenge</a> я описал в одном документе всю информацию про причины снижения произвоительности, которые я знаю. Буду рад, если это кому-то пригодится. Также буду рад дополнениям и изменениям.</em></p>
 
 <p>Проблемы производительности сильно зависят от приложения. Я постараюсь описать все известные мне типы проблем и предложить их способы решения. Каждое решение будет рассмотрено с точки зрения скорости его применения, стоимости и “фундаментальности” (насколько глубокие проблемы оно решает).</p>
