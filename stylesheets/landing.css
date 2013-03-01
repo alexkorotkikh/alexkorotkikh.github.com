@@ -1,0 +1,31 @@
+#main {
+    width: 600px;
+    padding: 10px;
+    margin: 200px auto;
+    text-align: center;
+}
+
+#main * {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+#content {
+    display: inline;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+#content h2 {
+    font-size: 36px;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+#content h4 {
+    font-weight: normal;
+    font-size: 18px;
+    font-family: 'Julius Sans One', sans-serif;
+}
